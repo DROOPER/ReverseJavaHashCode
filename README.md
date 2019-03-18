@@ -1,2 +1,11 @@
 # ReverseJavaHashCode
-A bruteforce tool to find all the strings based on a specific Java hashCode
+
+**INSTALLATION**
+git clone https://github.com/DROOPER/ReverseJavaHashCode.git
+cd ReverseJavaHashCode
+javac rjhc.java
+
+
+**USAGE**
+
+java rjhc [HASHCODE] [WORDLIST]
