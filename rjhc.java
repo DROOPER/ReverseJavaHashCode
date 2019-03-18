@@ -6,8 +6,8 @@ public class rjhc {
 
 
 public static void main(String[] args) {
-String wordlist=args[0];
-Integer hashcode=Integer.valueOf(args[1]);
+String wordlist=args[1];
+Integer hashcode=Integer.valueOf(args[0]);
 
 
 BufferedReader reader;
